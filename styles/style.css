@@ -76,6 +76,10 @@
   text-decoration: none;
 }
 
+.header__link:hover { 
+  border-bottom: 1px solid #2f80ed;
+}
+
 .content {
   width: 100%;
 }
@@ -241,6 +245,10 @@
   font-weight: normal;
 }
 
+.feynman__link:hover { 
+  border-bottom: 1px solid black;
+}
+
 .feynman__img {
   width: 867px;
   height: 637px;
@@ -371,6 +379,10 @@
   line-height: 30px;
   font-size: 18px;
   font-weight: normal;
+}
+
+.footer__column-link:hover { 
+  border-bottom: 1px solid white;
 }
 
 .footer__column_content_social {
