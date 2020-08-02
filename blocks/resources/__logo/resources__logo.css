@@ -1,29 +1,8 @@
-.resources__logo > a {
+.resources__logo {
   width: 270;
   height: 38px;
 }
 
-
-.resources__logo > a:hover {
+.resources__logo:hover {
   opacity: .4;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
